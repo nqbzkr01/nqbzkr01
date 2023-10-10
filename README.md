@@ -1,5 +1,4 @@
 <div id="profileView" align="center">
-   <img src="https://komarev.com/ghpvc/?username=nqbzkr01&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there, I'm Naquib
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
