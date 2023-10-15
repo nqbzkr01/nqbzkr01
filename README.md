@@ -3,7 +3,7 @@
   Hi! 👋, I'm Naquib
 </h1>
     <img src="https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif" alt="GIF" width="350" height="270"></img>
-  <h4 align="center">Committed to life long learning</h4>
+  <h3 align="center">Committed to life long learning</h3>
 </div>
 
 #### 👨: About Me
