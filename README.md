@@ -1,7 +1,7 @@
 <div id="profileView" align="center">
   <h1>
   Hi! 👋, I'm Naquib
-  <img src="https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif" alt="GIF" width="350" height="270">
 </h1>
   <h4 align="center">Committed to life long learning</h4>
 </div>
