@@ -1,3 +1,6 @@
+![GitHub Follow](https://img.shields.io/github/followers/nqbzkr01.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/nqbzkr01?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnqbzkr01&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 <div id="profileView" align="center">
   <h1>
   Hi! 👋, I'm Naquib
